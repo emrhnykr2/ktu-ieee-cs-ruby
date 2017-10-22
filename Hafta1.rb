@@ -19,7 +19,7 @@ puts " Merhaba #{a} #{b} "
 puts "Yaşınız tanımlanıyor.. #{c} "
 puts "#{d}'un en iyi okulu #{e} Hoşgeldiniz,Başarılar dilerim"
 
-#2. Hafta 2.Ödev
+#1. Hafta 2.Ödev
 
 
 def evenorodd()
